@@ -4,7 +4,7 @@ A modern React application showcasing a burger restaurant menu with dynamic cont
 
 **The project was created by: Ilya Kashitsyn**
 
-You can check out the ready-made solution on [Netlify](https://tictactoe-game-50d9f4.netlify.app/)
+You can check out the ready-made solution on [Netlify](https://burger-menu-81f369.netlify.app/)
 
 ## About the Project
 
